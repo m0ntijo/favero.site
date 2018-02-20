@@ -1,0 +1,2 @@
+# favero.site
+Site
